@@ -15,7 +15,7 @@
 }
 .Header-links{
     display:flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
     align-items: center;
 }
 .h1{
@@ -125,7 +125,7 @@ a{
     align-items: center;
     background-color: #3882f6;
     padding: 10px;
-    margin: 20px 200px 20px 200px;
+    margin: 20px 130px 20px 130px;
 
 }
 .Container_Contents{
