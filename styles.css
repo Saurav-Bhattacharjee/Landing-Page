@@ -103,6 +103,8 @@ a{
     display:flex;
     flex-direction: column;
     background-color: #E5E7EB;
+    padding: 10px 210px 10px 190px;
+    text-align: justify;
 }
 .quote{
     font-size: 36px;
